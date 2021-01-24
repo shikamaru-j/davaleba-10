@@ -3,3 +3,17 @@
 		justify-content: space-around;
 	}
 }
+@media (max-width:593px){
+	.header-nav {
+		display: none;
+	
+	}
+	
+	.header-text {
+		font-size: 50px;
+	}
+	.burger-icon {
+		display: block;
+	}
+}
+
