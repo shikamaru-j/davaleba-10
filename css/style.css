@@ -1,0 +1,114 @@
+/* .header-wraper {
+    background-image: url(../img/bg-image.jpg);
+    height: 900px;
+    max-width: 1280px;
+    background-position: center;
+    background-repeat: no-repeat;
+    
+}
+
+3 seeqcia */
+body {
+    background-color:#FAFAFA;
+}
+.sec-3 {
+    max-width: 1171px;
+    margin: 0 auto;
+
+}
+.section-header {
+     max-width: 738px;
+     text-align: center;
+     margin: 0 auto;
+     
+    }
+
+.box {
+    width: 371px;
+    height: 376px;
+    margin-bottom: 50px;
+    padding: 53px;
+    background-color: #FFFFFF;
+    ;
+
+}
+.box-container {
+    display: flex;
+    width: 100%;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding-top: 70px;
+}
+.blue-box {
+    height: 88px;
+    width: 88px;
+    border-radius: 100%;
+    background-color: #325DFF;
+    margin: 0 auto;
+    position: relative;
+}
+.box-text {
+    text-align: center;
+    margin-top: 27px;
+}
+.umbrela {
+    font-size: 35px;
+    color: white;
+    position: absolute; 
+    margin-left: 26px;
+    padding-top: 22px;   
+}
+.cofe {
+    font-size: 35Px;
+    color: white;
+    position: absolute; 
+    margin-left: 26px;
+    padding-top: 22px;  
+    
+}
+.gift {
+    font-size: 35px;
+    color: white;
+    position: absolute; 
+    margin-left: 26px;
+    padding-top: 22px;  
+}
+.haus {
+    font-size: 35px;
+    color: white;
+    position: absolute; 
+    margin-left: 26px;
+    padding-top: 22px; 
+}
+.inbox {
+    font-size: 35px;
+    color: white;
+    position: absolute; 
+    margin-left: 26px;
+    padding-top: 22px; 
+}
+.setings {
+    font-size: 35px;
+    color: white;
+    position: absolute; 
+    margin-left: 26px;
+    padding-top: 22px; 
+}
+.box-text p {
+    margin-top: 11px;
+    font-size: 16px;
+    color: #000000;
+}
+.box-text h6 {
+    font-size: 18px;
+    color: #000000;
+}
+.section-header h3 {
+    font-size: 35px;
+    color: #000000;
+}
+.section-header p {
+    font-size: 16px;
+    color: #000000;
+    padding-top: 9px;
+}

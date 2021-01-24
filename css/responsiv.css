@@ -1,0 +1,5 @@
+@media (max-width:1135px) {
+	.box-container {
+		justify-content: space-around;
+	}
+}
