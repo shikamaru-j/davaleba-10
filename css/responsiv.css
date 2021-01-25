@@ -16,4 +16,12 @@
 		display: block;
 	}
 }
-
+@media (max-width:1000px){
+	.section-2 {
+		flex-direction: column;
+		justify-content: center;
+	}
+	.button {
+		margin-left: 40px;
+	}
+}

@@ -33,7 +33,60 @@ margin-top: 270px;
     font-size: 12px;
 color: white;
 }
+/* 2seqcia */
+.section-2 {
+    max-width: 1280px;
+    display: flex;
+    margin: 0 auto;
+    justify-content: space-between;
+}
+.sec-2-text {
+    text-align: center;
+    max-width: 620px;
+}
+.flex {
+    max-width: 620px;
+    height: 601px;
+}
+.sec-2-text  h1 {
+    font-size: 50px;
+    max-width: 457px;
+    padding-top: 90px;
+}
+.sec-2-text p {
+    font-size: 16px;
+    max-width: 457px;
+    padding-top: 24px;
+}
+ 
+.radius {
+    width: 307px;
+    height: 72px;
+    background-color: #325DFF;
+    border-radius: 50px;
+    margin: 0 auto;
+}
+.absolut {
+    position: relative;
+}
 
+.boboxa {
+    position: absolute;
+    margin-left: 100px;
+    bottom: 50px;
+}
+.imim {
+    width: 100%;
+}
+button {
+    width: 307px;
+    height: 72px;
+    background-color: #325DFF;
+    border-radius: 50px;
+    margin: 0 auto;
+    outline: none;
+    margin-top: 60px;
+}
 
 
 
